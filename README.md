@@ -12,9 +12,37 @@
 
 
 <div align="center">
-  <a href="https://github.com/RefesonCompassUol ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?
-  username=RefesonCompassUol&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
-  username=RefesonCompassUol&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/RefesonCompassUol ">!
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RefesonCompassUol&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefesonCompassUol&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+  
+  
+  
+ # My Skills
+  
+
+![docker_original_wordmark_logo_icon_146557](https://user-images.githubusercontent.com/108491649/177084232-0e1e3af2-b93a-4566-b90b-6de07af0bc21.png)
+![linux-client](https://user-images.githubusercontent.com/108491649/177084491-6302aa0b-2f3f-4597-ad54-f949794c28f0.png)
+
+
+
+
+
+
+ 
+ 
+
+
+  
+  
+  
+ # My network of contacts
+ 
+ <div> 
+ 
+ 
+<a href="https://www.linkedin.com/in/refeson-pinho-tecnologia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+
+ <div> 
