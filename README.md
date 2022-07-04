@@ -1,5 +1,4 @@
-
-![devops-engineering-and-automation-500x500](https://user-images.githubusercontent.com/108491649/177079510-09944777-a384-4041-941b-990ca0b4c402.jpg)
+![Devops](https://user-images.githubusercontent.com/108491649/177079708-c3a08bf5-3c55-4e41-8708-04dd0989df91.gif)
 
 
 -From Bahia, Brazil to the world✈🌍
