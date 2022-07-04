@@ -1,4 +1,5 @@
-![DevSecOps gif](https://user-images.githubusercontent.com/108491649/177080230-9be8c2fb-7a35-49bd-9ed5-26684d9b682c.gif)
+
+![devops (2)](https://user-images.githubusercontent.com/108491649/177080294-259a6009-61f0-4d78-868a-823bb0156833.gif)
 
 
 -From Bahia, Brazil to the world✈🌍
