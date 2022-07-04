@@ -1,5 +1,5 @@
-![DevSecOps gif](https://user-images.githubusercontent.com/108491649/177080438-cec4346f-6d7e-4152-959a-f2dcd57abfe5.gif)
-
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/108491649/177080438-cec4346f-6d7e-4152-959a-f2dcd57abfe5.gif" width="1000" height="700
+    ">
 
 
 -From Bahia, Brazil to the world✈🌍
