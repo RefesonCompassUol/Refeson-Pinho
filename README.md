@@ -1,5 +1,5 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/108491649/177080438-cec4346f-6d7e-4152-959a-f2dcd57abfe5.gif" width="1100" height="800
-    ">
+![DevSecOps gif](https://user-images.githubusercontent.com/108491649/177086567-cee86d5a-53df-4cfb-8cdd-a732404e13c9.gif)
+
 -From Bahia, Brazil to the world✈🌍
 
 -Starting 4th semester in systems analysis and development at Faculdade SENAC in Joinville-SC..
