@@ -9,3 +9,10 @@
 -🔭 I am currently an intern in the DevSecOps area at Compass.Uol
 
 -🌱 I'm currently learning DevSecOps concepts and studied a lot about the linux world and its commands, docker, kubernetes, AWS and etc.
+
+
+div align="center">
+  <a href="https://github.com/RefesonPinho ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RefesonPinho&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefesonPinho&layout=compact&langs_count=7&theme=onedark"/>
+</div>
