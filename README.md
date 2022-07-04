@@ -8,7 +8,7 @@
 
 -🔭 I am currently an intern in the DevSecOps area at Compass.Uol
 
--🌱 I'm currently learning DevSecOps concepts and study a lot about the linux world and its commands, docker, kubernetes, AWS and etc.
+-🌱I'm currently learning concepts from the DevSecOps culture and studying a lot about the linux world and its day-to-day commands, docker, kubernetes, AWS and etc.
 
 
 <div align="center">
